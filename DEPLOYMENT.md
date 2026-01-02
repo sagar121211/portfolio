@@ -1,6 +1,6 @@
 # Deployment Guide - GitHub Pages
 
-This guide will help you deploy your portfolio to GitHub Pages in just a few steps.
+This guide will help you deploy your portfolio to GitHub Pages in just a few steps. 
 
 ## Prerequisites
 - A GitHub account (free at https://github.com)
