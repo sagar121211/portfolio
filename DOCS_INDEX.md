@@ -1,6 +1,6 @@
 # 📚 Portfolio Documentation Index
 
-Complete guide to all documentation files in your portfolio project.
+Complete guide to all documentation files in your portfolio project. 
 
 ## 📖 Main Documentation Files
 
